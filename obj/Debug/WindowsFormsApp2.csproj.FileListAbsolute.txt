@@ -1,0 +1,13 @@
+D:\sampleProject\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\sampleProject\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\sampleProject\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\sampleProject\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+D:\sampleProject\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+D:\sampleProject\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
